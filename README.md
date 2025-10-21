@@ -12,6 +12,11 @@ A free, open-source RedM script for poker.
 - Performant
 - Fully object-oriented code (OOP) for potential future expansion to other card games as well
 
+## TODO
+*(The following are not features yet.)*
+- Add in-world props for better immersion (cards in hands & chips on table)
+- Improve anti-cheat
+
 ## Requirements
 - VORP Framework
 - [shamey-core](https://github.com/ShameyWinehouse/shamey-core) (for audio)
